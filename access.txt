@@ -1,0 +1,5 @@
+homepageurl: https://as1.v.je
+adminuser: rupsan@gmail.com
+adminpass: 1
+nonadminuser: la@gmail.com
+nonadminpassword: a
